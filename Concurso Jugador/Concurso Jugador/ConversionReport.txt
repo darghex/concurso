@@ -1,0 +1,4 @@
+﻿ERROR: no se puede analizar el archivo de proyecto Concurso Jugador.vbproj.
+
+=========================COMENTARIOS=================
+El proyecto Concurso Jugador.vbproj se ha convertido correctamente en October 22 2012, 18:15:23.

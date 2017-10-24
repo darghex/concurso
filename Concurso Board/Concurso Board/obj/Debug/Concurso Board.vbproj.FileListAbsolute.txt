@@ -1,0 +1,16 @@
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso_Board.DBAccess.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso_Board.Form1.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso_Board.Resources.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\bin\Debug\Concurso Board.exe.manifest
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\bin\Debug\Concurso Board.application
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\bin\Debug\Concurso Board.exe
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\bin\Debug\Concurso Board.pdb
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\bin\Debug\Concurso Board.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.TrustInfo.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.exe.manifest
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.application
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.exe
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Board\Concurso Board\obj\Debug\Concurso Board.pdb

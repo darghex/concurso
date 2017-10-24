@@ -1,0 +1,16 @@
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\bin\Debug\Concurso Jugador.exe.manifest
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\bin\Debug\Concurso Jugador.application
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\bin\Debug\Concurso Jugador.exe
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\bin\Debug\Concurso Jugador.pdb
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\bin\Debug\Concurso Jugador.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso_Jugador.Concurso.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso_Jugador.DBAccess.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso_Jugador.Form1.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso_Jugador.Resources.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso Jugador.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso Jugador.exe.manifest
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso Jugador.application
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso Jugador.exe
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso Jugador.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Jugador\Concurso Jugador\obj\Debug\Concurso Jugador.pdb

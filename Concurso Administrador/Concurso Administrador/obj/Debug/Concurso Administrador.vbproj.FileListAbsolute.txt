@@ -1,0 +1,15 @@
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso_Administrador.DBAccess.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso_Administrador.Form1.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso_Administrador.Resources.resources
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso Administrador.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\bin\Debug\Concurso Administrador.exe.manifest
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\bin\Debug\Concurso Administrador.application
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\bin\Debug\Concurso Administrador.exe
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\bin\Debug\Concurso Administrador.pdb
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\bin\Debug\Concurso Administrador.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso Administrador.exe.manifest
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso Administrador.application
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso Administrador.exe
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso Administrador.xml
+C:\Documents and Settings\Wilson\Mis documentos\Concurso Administrador\Concurso Administrador\obj\Debug\Concurso Administrador.pdb
